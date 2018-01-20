@@ -1,0 +1,28 @@
+.contact-app {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    margin-bottom:80px;
+}
+
+.contact-list {
+    overflow-x: auto;
+}
+
+.action-container {
+    position: fixed;
+    bottom: 100px;
+    right: 20px;
+    height:50px;
+    width: 50px;
+    border-radius: 50%;
+    background:#00d1b2;
+    box-shadow: 0 2px 2px rgba(0, 0, 0, 0.486);
+}
+
+.action-container > a {
+    font-size: 2em;
+    font-weight: bold;
+    color:white;
+}

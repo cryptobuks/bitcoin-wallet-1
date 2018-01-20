@@ -1,0 +1,45 @@
+.contact-img {
+    height: 100px;
+    padding:1em 0
+}
+
+.details-btns {
+    display: flex;
+    justify-content: space-between;
+    background: #00d1b2;
+}
+.details-btns .fa {
+    color:white;
+}
+.details-contact {
+    padding:1em 1em;
+    border-bottom: 1px solid;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.details-input {
+    width: 130px;
+    /* outline: none;
+    border: none;
+    border-bottom: 1px solid */
+}
+
+.details-transfer-main {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:1em 1em;
+
+}
+
+.showMessageSuccess {
+    background-color: green;
+    color: white;
+}
+
+.showMessageError {
+    background-color: red;
+    color: white;
+}
