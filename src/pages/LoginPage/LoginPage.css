@@ -1,9 +1,0 @@
-.login-page {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-}
-
-.login-title {
-    text-transform: capitalize;
-}
