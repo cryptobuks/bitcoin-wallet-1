@@ -11,8 +11,7 @@ import ContactApp from './pages/ContactApp/ContactApp.js'
 import TransactionPage from './pages/TransactionPage/TransactionPage.js'
 import PrivateRoute from './cmps/PrivateRoute/PrivateRoute.js'
 
-import 'font-awesome/css/font-awesome.min.css';
-import './App.css';
+
 
 useStrict(true)
 
