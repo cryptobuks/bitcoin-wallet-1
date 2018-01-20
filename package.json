@@ -1,6 +1,6 @@
 {
-  "homepage": "https://tamirbenca.github.io/mister-bitcoin/",
-  "name": "mister-bitcoin",
+  "homepage": "https://ofirb25.github.io/bitcoin-wallet/",
+  "name": "bitcoin-wallet",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
